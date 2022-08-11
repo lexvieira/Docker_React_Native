@@ -110,8 +110,6 @@ drn react-native start
 
 * Para rodar o **Expo** existem alguns outros comandos para ser adicionado, enviarei na atualização 😉
 
-O **Alias** 
-
 
 ## Atualizações vindo ;)
 

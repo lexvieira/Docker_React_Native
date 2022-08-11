@@ -109,9 +109,6 @@ drn react-native start
 
 * To run **Expo** there are some other commands to be added, I will send it in the update 😉
 
-The **Alias**
-
-
 ## Updates coming ;)
 
 Coming soon, images and more exmples
